@@ -2,7 +2,7 @@ name: 'run BiliExp'
 
 on:
   schedule:
-    - cron: '12 2-22/2 * * *' #中午12:00执行，修改时注意时区
+    - cron: '12 */2 * * *' #中午12:00执行，修改时注意时区
   watch:
     types: started
   workflow_dispatch:
@@ -23,10 +23,9 @@ jobs:
         key: ${{ runner.os }}-pip-${{ hashFiles('**/run_in_Actions/requirements.txt') }}
         restore-keys: |
           ${{ runner.os }}-pip-
-
     - name: 执行BiliExp
       run: bash ./run_in_Actions/run_BiliExp.sh
       env:
           ADVCONFIG: ${{ secrets.ADVCONFIG }}
           BILICONFIG: ${{ secrets.BILICONFIG }}
-          PUSH_MESSAGE: ${{ secrets.PUSH_MESSAGE }｝
+          PUSH_MESSAGE: ${{ secrets.PUSH_MESSAGE }}
