@@ -2,7 +2,7 @@ name: 'run BiliExp'
 
 on:
   schedule:
-    - cron: '12 */2 * * *' #中午12:00执行，修改时注意时区
+    - cron: '12 */2 * * *'
   watch:
     types: started
   workflow_dispatch:
