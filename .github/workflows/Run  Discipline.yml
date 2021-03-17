@@ -1,4 +1,4 @@
-name: 'run Discipline'
+name: 'Run Discipline'
 
 on:
   schedule:
