@@ -23,7 +23,7 @@ jobs:
         key: ${{ runner.os }}-pip-${{ hashFiles('**/run_in_Actions/requirements.txt') }}
         restore-keys: |
           ${{ runner.os }}-pip-
-    - name: 执行BiliExp
+    - name: Discipline
       run: bash ./run_in_Actions/run_BiliExp.sh
       env:
           ADVCONFIG: ${{ secrets.ADVCONFIG }}
