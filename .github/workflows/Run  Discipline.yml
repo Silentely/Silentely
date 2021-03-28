@@ -29,3 +29,4 @@ jobs:
           ADVCONFIG: ${{ secrets.ADVCONFIG }}
           BILICONFIG: ${{ secrets.BILICONFIG }}
           PUSH_MESSAGE: ${{ secrets.PUSH_MESSAGE }}
+          DELAY: ${{ secrets.DELAY }}
