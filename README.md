@@ -1,6 +1,8 @@
-### Hi there 👋
+
 <div align='center' >
  
+### Hi there 👋
+
 [Home](https://github.com/Silentely) •
 [Blog](X) •
 [Telegram](X)
@@ -22,7 +24,6 @@
 </div>
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />  
-<br>
 <br>
 <img src="https://github-readme-stats.vercel.app/api?username=Silentely&show_icons=true" />
 
