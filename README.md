@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+<div align='center' >
+ 
 [Home](https://github.com/Silentely) •
 [Blog](X) •
 [Telegram](X)
@@ -18,8 +19,13 @@
 ![](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=ffffff)
 ![](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![](https://img.shields.io/badge/-PHP-4F5B93?style=flat-square&logo=php&logoColor=white)
+</div>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Silentely&show_icons=true&theme=radical" />
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />  
+<br>
+<br>
+<img src="https://github-readme-stats.vercel.app/api?username=Silentely&show_icons=true" />
+
 
 <!--
 ### Hi there 👋
