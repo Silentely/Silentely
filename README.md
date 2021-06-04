@@ -7,7 +7,7 @@
 [Blog](X) •
 [Telegram](X)
 
-![Counter](https://count.getloli.com/get/@silentely?theme=rule34)
+![Counter](https://count.getloli.com/get/@Silentely?theme=rule34)
 
 ![](https://img.shields.io/badge/Windows-10-2376bc?style=flat-square&logo=windows&logoColor=ffffff)
 ![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-blue?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
@@ -23,10 +23,19 @@
 ![](https://img.shields.io/badge/-PHP-4F5B93?style=flat-square&logo=php&logoColor=white)
 </div>
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />  
-<br>
-<img src="https://github-readme-stats.vercel.app/api?username=Silentely&show_icons=true" />
+<div align='center' >
 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Silentely)
+ 
+<br>
+ 
+![](https://github-readme-stats.vercel.app/api?username=Silentely&show_icons=true)
+
+<br>
+
+<img align="center" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" /> 
+
+</div>
 
 <!--
 ### Hi there 👋
