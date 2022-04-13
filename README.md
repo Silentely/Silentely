@@ -4,8 +4,8 @@
 ### Hi there 👋
 
 [Home](https://github.com/Silentely) •
-[Blog](X) •
-[Telegram](X)
+[Blog](https://cosr.eu.org) •
+[Telegram](https://t.me/connect22_bot)
 
 ![Counter](https://count.getloli.com/get/@Silentely?theme=rule34)
 
