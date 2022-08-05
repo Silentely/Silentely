@@ -26,15 +26,16 @@
 
 <div align='center' >
 
-<img align="center" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" /> 
+<img align="center" alt="GIF" src="https://raw.githubusercontent.com/Silentely/Silentely/main/pusheencode.gif" /> 
  
 <br>
  
-![](https://github-readme-stats.vercel.app/api?username=Silentely&show_icons=true)
+<p><img alt="Metrics" src="https://metrics.lecoq.io/Silentely?template=classic&amp;base.header=0&amp;stars=1&amp;isocalendar=1&amp;followup=1&amp;languages=1&amp;activity=1&amp;isocalendar.duration=half-year&amp;languages.limit=8&amp;languages.threshold=0%25&amp;languages.colors=github&amp;languages.sections=most-used&amp;languages.indepth=false&amp;languages.analysis.timeout=15&amp;languages.categories=markup%2C%20programming&amp;languages.recent.categories=markup%2C%20programming&amp;languages.recent.load=300&amp;languages.recent.days=14&amp;stars.limit=4&amp;followup.sections=repositories&amp;followup.indepth=false&amp;activity.limit=5&amp;activity.load=300&amp;activity.days=14&amp;activity.visibility=all&amp;activity.timestamps=false&amp;activity.filter=all&amp;config.timezone=Asia%2FShanghai"/><p>
 
-<br>
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Silentely)
+ 
+<!--![](https://github-readme-stats.vercel.app/api?username=Silentely&show_icons=true)-->
+ 
+<!--![](https://github-readme-stats.vercel.app/api?username=Silentely&show_icons=true)-->
 
 </div>
 
