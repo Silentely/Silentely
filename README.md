@@ -4,7 +4,7 @@
 <img align='middle' src='https://anay.cosr.eu.org/'></img>
 <br>
 [Blog](https://cosr.eu.org/) •
-[Channel](https://tg.cosr.eu.org)•
+[Channel](https://tg.cosr.eu.org) •
 [Email](mailto:Abner@cosr.eu.org) •
 [Telegram](https://t.me/connect22_bot)
 
