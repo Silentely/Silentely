@@ -26,6 +26,9 @@
 
 <div align='center' >
 
+<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Silentely" /> </div>
+<div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Silentely" /> </div>
+![snake](./assets/github-contribution-grid-snake.svg)
 <img align="center" alt="GIF" src="https://raw.githubusercontent.com/Silentely/Silentely/main/pusheencode.gif" /> 
  
 <br>
