@@ -3,9 +3,9 @@
 ### Hi there 👋 
 <img align='middle' src='https://anay.cosr.eu.org/'></img>
 <br>
-[Blog](https://cosr.eu.org/) •
+[博客](https://cosr.eu.org/) •
 [Channel](https://tg.cosr.eu.org) •
-[Email](mailto:Abner@cosr.eu.org) •
+[电子邮箱](mailto:Abner@cosr.eu.org) •
 [Telegram](https://t.me/connect22_bot)
 
 ![Counter](https://count.getloli.com/get/@Silentely?theme=rule34)
@@ -28,8 +28,11 @@
 
 <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Silentely" /> </div>
 <div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Silentely" /> </div>
-<img align="center" alt="SVG" src="https://raw.githubusercontent.com/Silentely/Silentely/main/assets/github-contribution-grid-snake.svg" />
-<img align="center" alt="GIF" src="https://raw.githubusercontent.com/Silentely/Silentely/main/pusheencode.gif" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Silentely/Silentely/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Silentely/Silentely/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Silentely/Silentely/output/github-contribution-grid-snake.svg" />
+</picture>
  
 <br>
  
