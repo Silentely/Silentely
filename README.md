@@ -3,9 +3,9 @@
 ### Hi there 👋 
 <img align='middle' src='https://anay.cosr.eu.org/'></img>
 <br>
-[博客](https://cosr.eu.org/) •
+[Blog](https://cosr.eu.org/) •
 [Channel](https://tg.cosr.eu.org) •
-[电子邮箱](mailto:Abner@cosr.eu.org) •
+[Email](mailto:Abner@cosr.eu.org) •
 [Telegram](https://t.me/connect22_bot)
 
 ![Counter](https://count.getloli.com/get/@Silentely?theme=rule34)
