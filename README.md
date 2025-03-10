@@ -5,8 +5,7 @@
 <br>
 [Blog](https://cosr.eu.org/) •
 [Channel](https://tg.cosr.eu.org) •
-[Email](mailto:Abner@cosr.eu.org) •
-[Telegram](https://t.me/connect22_bot)
+[Email](mailto:Abner@cosr.eu.org) 
 
 ![Counter](https://count.getloli.com/get/@Silentely?theme=rule34)
 
