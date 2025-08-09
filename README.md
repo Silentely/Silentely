@@ -4,7 +4,7 @@
 <a href='https://ko-fi.com/W7W01GGLJU' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi6.png?v=6' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>   
 <img align='middle' src='https://anay.cosr.eu.org/'></img>
 <br>
-[Blog](https://cosr.eu.org/) •
+[主页](https://cosr.eu.org/) •
 [Channel](https://tg.cosr.eu.org) •
 [Email](mailto:Abner@cosr.eu.org) 
 
