@@ -6,7 +6,8 @@
 <br>
 [主页](https://cosr.eu.org/) •
 [Channel](https://tg.cosr.eu.org) •
-[Email](mailto:Abner@cosr.eu.org) 
+[Email](mailto:Abner@cosr.eu.org) •
+[Chat Bot](http://t.me/callcosr_bot)
 
 ![Counter](https://count.getloli.com/get/@Silentely?theme=rule34)
 
