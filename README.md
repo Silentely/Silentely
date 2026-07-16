@@ -5,7 +5,7 @@
 <img align='middle' src='https://anay.cosr.eu.org/'></img>
 <br>
 [主页](https://cosr.eu.org/) •
-[Channel](https://tg.cosr.eu.org) •
+[Channel](https://blog.cosr.eu.org) •
 [Email](mailto:Abner@cosr.eu.org) •
 [Chat Bot](http://t.me/callcosr_bot)
 
